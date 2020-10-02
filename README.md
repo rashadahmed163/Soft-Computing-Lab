@@ -8,12 +8,12 @@ The repository contains the programs that were implemented during the lab sessio
   Dataset - IRIS
   
 # Lab-2
-  Contains the implementation of the Single layer Perceptron
+  Contains the implementation of the (Feed-Forward) Single layer Perceptron
 
   Dataset - IRIS, SPECT, SPECTF
 
 # Lab-3
-  Contains the implementation of the Multi-layered Perceptron
+  Contains the implementation of the (Backward Propoagation) Multi-layered Perceptron
 
   Dataset - IRIS, SPECT, SPECTF
 
