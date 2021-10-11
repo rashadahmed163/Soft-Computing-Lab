@@ -1,4 +1,4 @@
-# Soft-Computing-Lab
+# Soft-Computing-La
 The repository contains the programs that were implemented during the lab sessions for Soft Computing course.
 
 # Folder Description
